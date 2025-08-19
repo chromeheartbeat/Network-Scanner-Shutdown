@@ -36,7 +36,7 @@ A clean, step‑by‑step guide for a Python tool that scans your local network,
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/network-scanner-shutdown.git
+   git clone https://github.com/chromeheartbeat/Network-Scanner-Shutdown.git
    cd network-scanner-shutdown
    ```
 2. **(Optional) Create a virtual environment**
